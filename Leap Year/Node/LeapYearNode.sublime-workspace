@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"leap",
+				"leapYear"
+			],
+			[
+				"lea",
+				"leapYear"
+			],
+			[
+				"as",
+				"asyncPrime"
+			],
+			[
+				"next",
+				"nextPrime"
+			],
+			[
+				"new",
+				"newbicycle"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"temp",
+				"tempContext"
+			],
+			[
+				"image",
+				"imageData"
+			],
+			[
+				"loss",
+				"losslessTimer"
+			],
+			[
+				"lo",
+				"losslessImageData"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"tempC",
+				"tempContext"
+			],
+			[
+				"parse",
+				"parseAndLoadImage"
+			],
+			[
+				"header",
+				"headerInfo"
+			],
+			[
+				"Image",
+				"ImageTest"
+			],
+			[
+				"ca",
+				"CanvasRendering"
+			],
+			[
+				"timer",
+				"timer1"
+			],
+			[
+				"log",
+				"logTargetDiv"
+			],
+			[
+				"pr",
+				"proto	Prototype"
+			],
+			[
+				"scrol",
+				"scrollTimer"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"scro",
+				"scrollTimer"
+			],
+			[
+				"pt",
+				"prototype"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tak",
+				"takeFromList"
+			],
+			[
+				"take",
+				"takeFromListBy"
+			],
+			[
+				"sum",
+				"sumByFoldLambda"
+			],
+			[
+				"sum1",
+				"sumByFold1"
+			],
+			[
+				"odd",
+				"oddNumbers"
+			],
+			[
+				"even",
+				"evenNumbers"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"co",
+				"collatzSequenceRangeLength	Integral a => a -> [Int]"
+			],
+			[
+				"colla",
+				"collatzSequenceRangeLength	Integral a => a -> [Int]"
+			],
+			[
+				"Int",
+				"Integer"
+			],
+			[
+				"infi",
+				"infiniteOddMapSquares	None"
+			],
+			[
+				"zipWi",
+				"zipWith1	(t -> t1 -> a) -> [t] -> [t1] -> [a]"
+			],
+			[
+				"Inter",
+				"Integral	class Integral a"
+			],
+			[
+				"filt",
+				"filter1"
+			],
+			[
+				"zip",
+				"zipWith1"
+			],
+			[
+				"zipwi",
+				"zipWidth1"
+			],
+			[
+				"milt",
+				"multiplyTwoDigitsWithThree"
+			],
+			[
+				"replc",
+				"replicate2"
+			],
+			[
+				"replica",
+				"replicate2"
+			],
+			[
+				"rep",
+				"repeat1"
+			],
+			[
+				"replic",
+				"replicate1	(Eq a, Num a) => a -> a1 -> [a1]"
+			],
+			[
+				"repl",
+				"replicate1"
+			],
+			[
+				"rever",
+				"reverse1"
+			],
+			[
+				"inter",
+				"Integral	class Integral a"
+			],
+			[
+				"luck",
+				"luckyPatt"
+			],
+			[
+				"len",
+				"myLengthPattern"
+			],
+			[
+				"myl",
+				"myLengthPattern"
+			],
+			[
+				"my",
+				"myLengthPattern"
+			],
+			[
+				"main",
+				"mainCall"
+			],
+			[
+				"fun",
+				"func1"
+			],
+			[
+				"ho",
+				"hoistingExampleFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Mocha.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"test ",
+				"Test Runner: Run tests"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"theme",
+				"SublimeREPL: Petite Chez Scheme"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git ma",
+				"Git: Merge Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"git: stat",
+				"Git: Status"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Set Syntax: C#"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"we",
+				"Web Inspector"
+			],
+			[
+				"webn",
+				"Web Inspector"
+			],
+			[
+				"webins",
+				"Web Inspector"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"webs",
+				"Set Syntax: Web Inspector (Stack)"
+			],
+			[
+				"webin",
+				"Web Inspector"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"web ",
+				"Web Inspector"
+			],
+			[
+				"web ins",
+				"Web Inspector"
+			],
+			[
+				"we ",
+				"Web Inspector"
+			],
+			[
+				"web in",
+				"Web Inspector"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"web i",
+				"Web Inspector"
+			],
+			[
+				"webi ",
+				"Web Inspector"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"packe",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"jshint",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"jshi",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"paca",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 230.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Programming/Code Kata/Leap Year/Node/main.js",
+		"/D/Programming/Code Kata/Leap Year/Node/test/test.js",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/Mocha.sublime-build",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/Programming/Nodejs/NextPrime/test.js",
+		"/D/Programming/Nodejs/NextPrime/test/test.next-prime.js",
+		"/D/Programming/Code Kata/Leap Year/Node/CommonFunctions.js",
+		"/D/Programming/Code Kata/Leap Year/Node/asd.js",
+		"/D/Programming/Code Kata/Leap Year/Node/commonFunctions.js",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/D/Programming/Javascript/scratchpad.js",
+		"/D/Programming/Nodejs/NextPrime/test/test.js",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/Node.sublime-build",
+		"/C/Users/bharats/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/QH0JSP1E/Untitled attachment 00112.txt",
+		"/C/Users/bharats/AppData/Roaming/npm/node_modules/mocha/bin/mocha",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/.bin/mocha",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/.bin/_mocha",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/Test Runner/TestRunner.sublime-settings",
+		"/D/Programming/Nodejs/NextPrime/Makefile",
+		"/D/P4/ZFP Model/NGI/PRDS/UView-ZFP/INT/ZFP/src/ZFP/Scripts/ZFP_Scripts/Canvas/CanvasRenderer.js",
+		"/D/Downloads/VM Player/Add Network Manger.txt",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/Rendering.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Common/Main.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Globals/GlobalMockData.js",
+		"/D/Programming/GitLabs/IpadScrolling/Ipadscrolling.sublime-project",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Timer/Timer.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/ImageProcessing/LookupTable.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/ImageProcessing/ImageTotal.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Globals/Globals.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Common/Viewmodel.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Common/Scrolling.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/ImageProcessing/ImageVariables.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/ImageProcessing/WindowLevelImage.js",
+		"/D/Programming/Javascript/javascript-training.js",
+		"/D/Programming/Javascript/JavascriptGoodParts.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/ImageProcessing/Image.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/ImageProcessing/GenerateImage.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/Image.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/GenerateImage.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering/WindowLevelImage.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Globals/GlobalsMockData.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Main.js",
+		"/D/Programming/GitLabs/IpadScrolling/Content/site.css",
+		"/D/Programming/GitLabs/IpadScrolling/View/test.html",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Viewmodel.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Timer.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Scrolling.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Rendering.js",
+		"/D/Programming/GitLabs/IpadScrolling/Scripts/MyScripts/Globals.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Timer.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Rendering.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Scrolling.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Viewmodel.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Main.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Globals.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/View/test.html",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Content/site.css",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Test.js",
+		"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Namespace.js",
+		"/D/Programming/Git/Haskell/Cyber-dojo/0. Scratchpad.hs",
+		"/D/Programming/Git/Haskell/Cyber-dojo/1. 100 Doors.hs",
+		"/D/P4/Checkin/NGI/PRDS/UView-ZFP/INT/ZFP/sharedLib/DakotaConfig/DakotaMetadataConfig.ini",
+		"/C/Program Files/GE Healthcare/GE Centricity PACS Dakota Server/conf/DakotaConfig.ini",
+		"/D/Programming/Git/Haskell/LearnHaskell/4. Lambdas.hs",
+		"/D/Programming/Git/Haskell/Cyber-dojo/0. Scratchpad.txt",
+		"/D/Programming/Git/Haskell/LearnHaskell/1. Recursion.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/0. scratchpad.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/3. Maps And Filters.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/2. HigherOrderFunctions.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/5. Folds.hs",
+		"/D/P4/Checkin/NGI/PRDS/UView-ZFP/INT/ZFP/src/ZFP/Web.config",
+		"//10.30.2.52/Currentbuild/ZFPReva/Web.config",
+		"/D/Programming/Git/Haskell/LearnHaskell/LearnHaskell.sublime-workspace",
+		"/D/Programming/Git/Haskell/LearnHaskell/3.MapsAndFilters.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/3.Maps And Filters.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/Recursion.hs",
+		"/D/Programming/Git/Haskell/LearnHaskell/scratchpad.hs",
+		"/D/ViewModel.cs",
+		"/D/P4/Checkin/NGI/PRDS/UView-ZFP/INT/ZFP/src/ZFP/Views/Home/Viewer.cshtml",
+		"/C/inetpub/wwwroot/Dakota/web.config",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/D/Programming/Git/Haskell/LearnHaskell/scratchpad - Copy.hs",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/Programming/Git/Haskell/LearnHaskell/                 myLengthPa[Finished in 0.7s with exit code 1]ttern ",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/SublimeHaskell/Settings/SublimeHaskell.sublime-settings",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/User/SublimeHaskell.sublime-settings",
+		"/D/Programming/Git/Haskell/Chap 3/test.hs",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/D/Automation/packages/Selenium.WebDriver.ChromeDriver.2.9.0.1/content/README-ChromeDriver.txt",
+		"/D/P4/Automation Main/NGI/PRDS/UView-ZFP/INT/ZFP/Automation/CustomDictionary.xml",
+		"/D/Downloads/Studio Addons/Selenium/Other.txt",
+		"//10.30.2.52/Currentbuild/ZFPReva/Scripts/ZFP_Scripts/Knockout/Events/EventLayer.js",
+		"/D/P4/ZFP Model/NGI/PRDS/UView-ZFP/INT/ZFP/src/ZFP/Scripts/ZFP_Scripts/Knockout/Events/EventLayer.js",
+		"/D/Programming/Javascript/Test/test.js",
+		"/D/Downloads/Sublime Text/Node_Build.txt",
+		"/D/P4/ZFP Model/NGI/PRDS/UView-ZFP/INT/ZFP/src/ZFP/Web.config",
+		"/D/Programming/Javascript/Test/index.html",
+		"/D/Programming/Javascript/TestWebInspector/View/test.html",
+		"/D/Programming/Javascript/TestWebInspector/Scripts/MyScripts/Test.js",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/Web Inspector 3/swi.sublime-settings",
+		"/D/Programming/Javascript/TestWebInspector/Scripts/MyScripts/WebInspector.sublime-project",
+		"/C/Users/bharats/AppData/Roaming/Sublime Text 2/Packages/Web Inspector/swi.sublime-settings",
+		"/D/Projects/GE/License_EA/license.dat",
+		"//10.30.2.52/Currentbuild/TemporaryBuild/ZFPRevaTemp/Web.config",
+		"/C/inetpub/wwwroot/ZFP/Web.config",
+		"/D/Citius/Interview/Program.cs",
+		"/D/ChromeServer.java",
+		"/C/inetpub/wwwroot/ZFP/Global.asax",
+		"/C/inetpub/wwwroot/ZFP/Hl7Host.config",
+		"//10.30.2.52/Currentbuild/ZFPLeaf/Web.config",
+		"//10.30.2.52/OlderBuild/ZFP.Reva/16. April_2014/ZFP_04072014_01/ZFP/Web.config",
+		"//10.30.2.52/Currentbuild/ZFPReva/DbConnections.config",
+		"//10.30.2.52/OlderBuild/ZFP.Reva/16. April_2014/ZFP_04072014_01/ZFP/DbConnections.config",
+		"//10.30.2.52/Currentbuild/ZFPReva/DakotaClient.config",
+		"//10.30.2.52/OlderBuild/ZFP.Reva/16. April_2014/ZFP_04072014_01/ZFP/DakotaClient.config",
+		"//10.30.2.52/OlderBuild/ZFP.Reva/16. April_2014/ZFP_04032014_01/ZFP/Web.config",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/Web.config",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/UserGroupWorklistMappingEA.xml",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/DakotaClient.config",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/DbConnections.config",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/Scripts/ZFP_Scripts/Caching/DownloadManager.js",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/Scripts/ZFP_Scripts/Knockout/Model/Series.js",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/Scripts/ZFP_Scripts/Knockout/Model/Viewport.js",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/Scripts/jscoverage-output/Knockout/Model/Viewport.js",
+		"/D/P4/Checkin/NGI/INT/Allegro/zfp1-i/ZFP/src/ZFP/Scripts/ZFP_Scripts/DrawOnViewport/DrawOnViewport.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"D:\\P4\\Checkin\\NGI\\INT\\Allegro\\zfp1-i\\ZFP\\src\\ZFP\\Scripts\\ZFP_Scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ly",
+			"tab",
+			"CommonMathOperations",
+			"Common",
+			"myNameSpace",
+			":\\",
+			"calculateHULookup",
+			"setLookUp",
+			"this",
+			"highlight_modified",
+			"highlight",
+			"add",
+			"genImage",
+			"getImage",
+			"setTempCanvas",
+			"genImage",
+			"getImageObject",
+			"getImageObject ",
+			"timer",
+			"setImageData",
+			"allocatePixelArray",
+			"viewport",
+			"parseAndLoadImage",
+			"drawImage",
+			"loadImage",
+			"drawImage",
+			"isPlut",
+			"headerInfo",
+			"{\n",
+			"getFirstVal",
+			"calculateNonlinearModalityLookup",
+			"calculateVOILookup",
+			"setWindowingdata",
+			"calculateLookup",
+			"calculateHULookup",
+			"LookupTable",
+			"calculateHULookup",
+			"lossyLookupObj.calculateLookup( 8",
+			"tempCanvas.height = headerInfo.Height;",
+			"drawJpegImage",
+			"drawImage",
+			"tempCanvas",
+			"allocatePixelArray",
+			"getFirstItem",
+			"IpadScrolling.Globals.getFirstItem",
+			"getFirstItem",
+			"tempCanvas",
+			"loadLossyImage",
+			"parseAndLoadImage",
+			"tempCanvas",
+			"isNotNullOrEmpty",
+			"isNotNullOrEmpty ",
+			"\\\\",
+			"isNotNullOrEmpty",
+			"ns",
+			"this",
+			"ns",
+			"viewport",
+			"this",
+			"convertToRange",
+			"fillData",
+			"isMonochrome1",
+			"getInvertedCanvas",
+			"viewport",
+			"getReadLossy",
+			"viewport",
+			".image",
+			".Image",
+			".image",
+			"GE.ZFP",
+			"IpadScrolling.Globals.loadImage",
+			"IpadScrolling.Timer",
+			"Timer",
+			"self",
+			"600px",
+			"iteration",
+			"iteration2",
+			"toggleDoors",
+			"iteration",
+			"toggleTupple",
+			"getFromTuple",
+			"iteration",
+			"iteration2",
+			"\n ",
+			"ans",
+			"takeFromListBy",
+			"skip",
+			"largest",
+			"acc",
+			"s",
+			"fold1",
+			"sumByRecursion",
+			"sumByFold1",
+			"main",
+			"Main",
+			"main",
+			"Main",
+			"main",
+			"Main",
+			"evenNumbers",
+			"localhost",
+			"collatzSequenceRangeLength",
+			"collatzSequence",
+			"\n",
+			"a",
+			"zipWith1",
+			"\n",
+			"		",
+			"\n",
+			"		",
+			"\n",
+			"zipwidth",
+			"zipwidtj",
+			"imageOperation",
+			"system.web>",
+			"system.web",
+			"losslessCallback",
+			"setOverlayImageNumber",
+			"pasteImage",
+			"getVariables",
+			"removeRequestFromList",
+			"face",
+			"font",
+			"famil"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"IpadScrolling.Globals.getFirstItem",
+			"IpadScrolling.Globals.loadJpegImage"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.git":
+	{
+		"height": 106.0
+	},
+	"output.run_mocha":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"Scripts/MyScripts/Common/Main.js"
+			],
+			[
+				"rene",
+				"Scripts/MyScripts/Rendering/Rendering.js"
+			],
+			[
+				"sc",
+				"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Scrolling.js"
+			],
+			[
+				"startimer",
+				"/D/Projects/GE/Code/Bharat's Code/IpadScrolling/Scripts/MyScripts/Timer.js"
+			],
+			[
+				"",
+				"/D/Programming/Git/Haskell/LearnHaskell/4. Lambdas.hs"
+			],
+			[
+				"mapping",
+				"UserGroupWorklistMappingEA.xml"
+			],
+			[
+				"web",
+				"Web.config"
+			],
+			[
+				"series.j",
+				"Scripts/ZFP_Scripts/Knockout/Model/Series.js"
+			],
+			[
+				"viewport",
+				"Scripts/ZFP_Scripts/Knockout/Model/Viewport.js"
+			],
+			[
+				"downoa",
+				"Scripts/ZFP_Scripts/Caching/DownloadManager.js"
+			],
+			[
+				"drawonviewprt",
+				"Scripts/ZFP_Scripts/DrawOnViewport/DrawOnViewport.js"
+			],
+			[
+				"download",
+				"Scripts/ZFP_Scripts/Caching/DownloadManager.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
