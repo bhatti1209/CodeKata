@@ -15,23 +15,18 @@ var codeKata = codeKata || {};
 (function PrimeFactors (myNs) {
 	myNs.PrimeFactors = function (){
 		// private variables go here
-		var self = this;
 		this.factors = [];
 	};
-
 	myNs.PrimeFactors.prototype.isNumberDivisble = function(number, diviser) {
 		return (number % diviser === 0);
-	};
-	
+	};	
 	myNs.PrimeFactors.prototype.getRemainder = function(number, diviser) {
 		return number/diviser;
 	};
-
 	myNs.PrimeFactors.prototype.getNextvalue = function(number, diviser) {
 		return this.isNumberDivisble(number, diviser) ?
 			this.getRemainder(number, diviser) : number;
 	};
-
 	myNs.PrimeFactors.prototype.getLowestFactor = function(number, diviser) {
 		if(number == 1)
 			return [1];
@@ -44,7 +39,6 @@ var codeKata = codeKata || {};
 			return this.getLowestFactor(nextValue, diviser + 1);
 		}
 	};
-
 	myNs.PrimeFactors.prototype.getAllFactors = function(number) {
 		var nextFactor = this.getLowestFactor(number, 2);
 		var remainder = this.getRemainder(number, nextFactor);
@@ -57,7 +51,6 @@ var codeKata = codeKata || {};
 			return this.getAllFactors(remainder, 2);
 		}
 	};
-
 	myNs.PrimeFactors.prototype.getFactors = function(number) {
 		this.factors = [];
 		return this.getAllFactors(number);
