@@ -29,6 +29,22 @@ var codeKata = codeKata || {};
 	myNs.CalcStats.prototype.getAverage = function(inputArray) {
 		return this.getSum(inputArray) / this.getLength(inputArray);
 	};
+	myNs.CalcStats.prototype.getSorted = function(inputArray) {
+		return inputArray.sort(compareNumbers);
+	};
+	myNs.CalcStats.prototype.getMin = function(inputArray) {
+		return getFirstElement(inputArray.sort(compareNumbers));
+	};
+	myNs.CalcStats.prototype.getMax= function(inputArray) {
+		return getFirstElement(inputArray.sort(compareNumbers).reverse());
+	};
+
+	function compareNumbers(a,b){
+		return a - b;
+	}
+	function getFirstElement(inputArray){
+		return inputArray.splice(0,1);
+	}
 })(codeKata);
 
 module.exports = codeKata.CalcStats;
