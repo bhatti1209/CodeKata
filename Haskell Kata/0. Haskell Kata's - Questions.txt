@@ -1,39 +1,42 @@
-Select the first element of the list.
-Remove the first element of the list.
-Select nth element of the list.
-Select the first n elements of a list.
-Calculate the length of the list.
-Calculate the sum/product of a list.
-Reverse the list.
+1. Select the first element of the list.
+2. Remove the first element of the list.
+3. Select nth element of the list.
+4. Select the first n elements of a list.
+5. Calculate the length of the list.
+6. Calculate the sum/product of a list.
+7. Reverse the list.
 
-Consider a function safetail that behaves in the same way as tail, except that safetail maps the empty list to the empty list, whereas tail gives an error in this case.  Define safetail using:
+8. Consider a function safetail that behaves in the same way as tail, except that safetail maps the empty list to the empty list, whereas tail gives an error in this case.  Define safetail using:
   (a)	a conditional expression;
   (b)	guarded equations;
   (c)	pattern matching.
 
-Give three possible definitions for the logical or operator (||) using pattern matching.
+9. Give three possible definitions for the logical or operator (||) using pattern matching.
 
-A triple (x,y,z) of positive integers is called pythagorean if x2 + y2 = z2.  Using a list comprehension, define a function that maps an integer n to all such triples with components in [1..n].  
+10. A triple (x,y,z) of positive integers is called pythagorean if 
+x^2 + y^2 = z^2.  
+Using a list comprehension, define a function that maps an integer n to all such triples with components in [1..n].  
 For example:
 > pyths 5
 [(3,4,5),(4,3,5)]
 
-A positive integer is perfect if it equals the sum of all of its factors, excluding the number itself.  Using a list comprehension, define a function that returns the list of all perfect numbers up to a given limit.  
+11. A positive integer is perfect if it equals the sum of all of its factors, excluding the number itself.  Using a list comprehension, define a function that returns the list of all perfect numbers up to a given limit.  
 For example:
 > perfects 500
 [6,28,496]
 
-The scalar product of two lists of integers xs and ys of length n is give by the sum of the products of the corresponding integers.
+12. The scalar product of two lists of integers xs and ys of length n is give by the sum of the products of the corresponding integers.
 Using a list comprehension, define a function that returns the scalar product of two lists.
 
-Implement Quicksort in Haskell. (Hint: Use recursion !!)
+13. Implement Quicksort in Haskell. (Hint: Use recursion !!)
 
-Define a recursive function
+14. Define a recursive function
 	merge :: [Int] -> [Int] -> [Int]
 that merges two sorted lists of integers to give a single sorted list.  For example:
 > merge [2,5,6] [1,3,4]
 [1,2,3,4,5,6]
 
-Express the comprehension [f x | x <- xs, p x] using the functions map and filter.
+15. Express the comprehension [f x | x <- xs, p x] using the functions map and filter.
 
-Redefine map f and filter p using foldr.
+15. Redefine map f and filter p using recursion.
+16. Redefine map f and filter p using foldr.
